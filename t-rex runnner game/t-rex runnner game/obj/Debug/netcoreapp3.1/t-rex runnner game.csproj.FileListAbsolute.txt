@@ -1,0 +1,17 @@
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\t rex\t-rex runnner game\t-rex runnner game\bin\Debug\netcoreapp3.1\t-rex runnner game.exe
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\t rex\t-rex runnner game\t-rex runnner game\bin\Debug\netcoreapp3.1\t-rex runnner game.deps.json
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\t rex\t-rex runnner game\t-rex runnner game\bin\Debug\netcoreapp3.1\t-rex runnner game.runtimeconfig.json
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\t rex\t-rex runnner game\t-rex runnner game\bin\Debug\netcoreapp3.1\t-rex runnner game.runtimeconfig.dev.json
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\t rex\t-rex runnner game\t-rex runnner game\bin\Debug\netcoreapp3.1\t-rex runnner game.dll
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\t rex\t-rex runnner game\t-rex runnner game\bin\Debug\netcoreapp3.1\t-rex runnner game.pdb
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\t rex\t-rex runnner game\t-rex runnner game\obj\Debug\netcoreapp3.1\t-rex runnner game.csproj.AssemblyReference.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\t rex\t-rex runnner game\t-rex runnner game\obj\Debug\netcoreapp3.1\t_rex_runnner_game.Form1.resources
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\t rex\t-rex runnner game\t-rex runnner game\obj\Debug\netcoreapp3.1\t_rex_runnner_game.Properties.Resources.resources
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\t rex\t-rex runnner game\t-rex runnner game\obj\Debug\netcoreapp3.1\t-rex runnner game.csproj.GenerateResource.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\t rex\t-rex runnner game\t-rex runnner game\obj\Debug\netcoreapp3.1\t-rex runnner game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\t rex\t-rex runnner game\t-rex runnner game\obj\Debug\netcoreapp3.1\t-rex runnner game.AssemblyInfoInputs.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\t rex\t-rex runnner game\t-rex runnner game\obj\Debug\netcoreapp3.1\t-rex runnner game.AssemblyInfo.cs
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\t rex\t-rex runnner game\t-rex runnner game\obj\Debug\netcoreapp3.1\t-rex runnner game.csproj.CoreCompileInputs.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\t rex\t-rex runnner game\t-rex runnner game\obj\Debug\netcoreapp3.1\t-rex runnner game.dll
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\t rex\t-rex runnner game\t-rex runnner game\obj\Debug\netcoreapp3.1\t-rex runnner game.pdb
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\t rex\t-rex runnner game\t-rex runnner game\obj\Debug\netcoreapp3.1\t-rex runnner game.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "t-rex runnner game/1.0.0": {
+        "runtime": {
+          "t-rex runnner game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "t-rex runnner game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
